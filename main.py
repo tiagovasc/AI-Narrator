@@ -1,3 +1,6 @@
+!pip install openai gspread
+pip install --upgrade openai
+
 import gspread
 from google.colab import auth
 from google.auth import default
